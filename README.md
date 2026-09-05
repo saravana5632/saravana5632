@@ -84,15 +84,6 @@ Currently learning and contributing through the GitHub workflow:
 
 ## Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/saravana5632">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://saravana5632.github.io/portfolio">
-    <img src="https://skillicons.dev/icons?i=githubpages" width="42" height="42" alt="Portfolio"/>
-  </a>
-</p>
 
 **LinkedIn:** [linkedin.com/in/saravana5632](https://www.linkedin.com/in/saravana5632)  
 **Portfolio:** [saravana5632.github.io/portfolio](https://saravana5632.work.gd)

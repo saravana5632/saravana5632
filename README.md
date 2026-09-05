@@ -1,144 +1,106 @@
 # Hi, I'm SaravanaKumar G
 
-### Software Developer | Java | Python | Web Development | Problem Solving
+### Software Developer | Java | Python | Web Development | Open Source
 
-I'm a B.Tech (CSBS) student at Panimalar Engineering College interested in
-software development, programming, web technologies, and building practical
-projects.
-
-I enjoy learning new technologies, solving programming problems, working
-with Git and GitHub, and contributing to open-source projects.
+B.Tech (CSBS) student at Panimalar Engineering College focused on
+building practical software projects, improving problem-solving skills,
+and learning modern development technologies.
 
 ---
 
 ## About Me
 
-- B.Tech (CSBS) student at Panimalar Engineering College
-- Interested in software development and application development
-- Strong interest in Java and Python programming
+- Software development enthusiast with a strong interest in Java and Python
 - Practicing Data Structures & Algorithms
 - Building web and software projects
-- Exploring Artificial Intelligence and Machine Learning
-- Learning Git, GitHub and open-source contribution
-- Continuously improving my problem-solving and engineering skills
+- Exploring AI and Machine Learning
+- Learning open-source development and collaborative workflows
+- Interested in writing clean, maintainable, and practical code
 
 ---
 
 ## Tech Stack
 
-### Programming
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,sql" />
-</p>
+`Java` `Python` `JavaScript` `TypeScript` `SQL`
 
-### Web & Development
+**Web & Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-</p>
+`HTML` `CSS` `React` `Node.js`
 
-### Tools
+**Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+`Git` `GitHub` `VS Code`
 
 ---
 
 ## Featured Projects
 
 ### Traffic Intelligence
+A project focused on developing a software-based solution for
+traffic-related problems.
 
-A project focused on developing software solutions for traffic-related
-problems.
-
-🔗 [View Repository](https://github.com/saravana5632/Traffic-intelligence)
-
----
+[View Repository](https://github.com/saravana5632/Traffic-intelligence)
 
 ### EcoMind
+A practical technology project focused on solving a real-world problem.
 
-A technology project focused on building a practical solution to a
-real-world problem.
-
-🔗 [View Repository](https://github.com/saravana5632/Ecomind)
-
----
+[View Project](https://github.com/saravana5632)
 
 ### Portfolio
+My personal portfolio showcasing my projects, skills, and development work.
 
-My personal developer portfolio showcasing my projects, skills and
-professional work.
-
-🔗 [Visit Repository](https://github.com/saravaana5632/portfolio)
-
----
+[Visit Portfolio](https://saravana5632.github.io/portfolio)
 
 ### LeetCode Solutions
+My collection of Data Structures & Algorithms and programming solutions
+implemented primarily in Java.
 
-A collection of my solutions to programming and Data Structures &
-Algorithms problems, primarily using Java.
-
-🔗 [View Repository](https://github.com/saravana5632/leet-code-solutions)
+[View Repository](https://github.com/saravana5632/leet-code-solutions)
 
 ---
 
 ## Open Source
 
-I'm actively learning and practicing open-source development through GitHub.
+Currently learning and contributing through the GitHub workflow:
 
-My workflow includes:
-
-- Forking repositories
-- Creating branches
-- Implementing changes
-- Creating Pull Requests
-- Reviewing and improving code
-- Collaborating with other developers
+`Fork → Branch → Build → Commit → Pull Request → Collaborate`
 
 ---
 
 ## Currently Learning
 
-- Java
-- Python
 - Data Structures & Algorithms
+- Java & Python
 - Web Development
 - Backend Development
 - Git & GitHub
-- Open Source Development
+- Open Source
 - Software Engineering
-- Artificial Intelligence
+- AI & Machine Learning
 
 ---
 
-## Development Focus
+## GitHub Stats
 
-```text
-Learn → Build → Test → Improve → Contribute
-```
-
-I focus on turning what I learn into practical projects and continuously
-improving my programming and software engineering skills.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saravana5632&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-## Connect With Me
+## Connect
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/saravana5632">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://saravana5632.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=githubpages" />
+  </a>
+</p>
 
 ---
 
-## Goal
-
-To become a versatile software engineer by building real-world projects,
-strengthening my programming fundamentals, contributing to open source,
-and continuously learning new technologies.
-
----
-
-### Code. Build. Learn. Contribute.
+### Build. Solve. Learn. Contribute.

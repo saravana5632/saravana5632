@@ -95,7 +95,7 @@ Currently learning and contributing through the GitHub workflow:
 </p>
 
 **LinkedIn:** [linkedin.com/in/saravana5632](https://www.linkedin.com/in/saravana5632)  
-**Portfolio:** [saravana5632.github.io/portfolio](https://saravana5632.github.io/portfolio)
+**Portfolio:** [saravana5632.github.io/portfolio](https://saravana5632.work.gd)
 
 ---
 

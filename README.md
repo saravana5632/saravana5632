@@ -62,7 +62,7 @@ problems.
 A technology project focused on building a practical solution to a
 real-world problem.
 
-🔗 [View Repository](https://github.com/saravana5632)
+🔗 [View Repository](https://github.com/saravana5632/Ecomind)
 
 ---
 
@@ -71,7 +71,7 @@ real-world problem.
 My personal developer portfolio showcasing my projects, skills and
 professional work.
 
-🔗 [Visit Repository](https://github.com/portfolio)
+🔗 [Visit Repository](https://github.com/saravaana5632/portfolio)
 
 ---
 
@@ -113,14 +113,6 @@ My workflow includes:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saravana5632&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## Development Focus
 
 ```text
@@ -138,11 +130,6 @@ improving my programming and software engineering skills.
   <a href="https://www.linkedin.com/in/saravana5632">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
-  <a href="https://saravana5632.work.gd">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=githubpages" />
-  </a>
-</p>
 
 ---
 

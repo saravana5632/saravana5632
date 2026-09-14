@@ -51,7 +51,7 @@ A practical technology project focused on solving a real-world problem.
 ### Portfolio
 My personal portfolio showcasing my projects, skills, and development work.
 
-[Visit Portfolio](https://saravana5632.github.io/portfolio)
+[Visit Portfolio](https://saravana5632.in)
 
 ### LeetCode Solutions
 My collection of Data Structures & Algorithms and programming solutions
@@ -86,7 +86,7 @@ Currently learning and contributing through the GitHub workflow:
 
 
 **LinkedIn:** [linkedin.com/in/saravana5632](https://www.linkedin.com/in/saravana5632)  
-**Portfolio:** [saravana5632.in](https://saravana5632.in)
+**Portfolio:** [saravana5632.in](https://www.saravana5632.in)
 
 ---
 

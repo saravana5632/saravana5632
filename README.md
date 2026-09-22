@@ -59,13 +59,6 @@ implemented primarily in Java.
 
 [View Repository](https://github.com/saravana5632/leet-code-solutions)
 
----
-
-## Open Source
-
-Currently learning and contributing through the GitHub workflow:
-
-`Fork → Branch → Build → Commit → Pull Request → Collaborate`
 
 ---
 

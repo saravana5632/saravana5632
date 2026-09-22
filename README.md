@@ -1,6 +1,6 @@
 # Hi, I'm SaravanaKumar G
 
-### Software Developer | Java | Python | Web Development | Open Source
+### Software Developer | Java | Python | Web Development 
 
 B.Tech (CSBS) student at Panimalar Engineering College focused on
 building practical software projects, improving problem-solving skills,
